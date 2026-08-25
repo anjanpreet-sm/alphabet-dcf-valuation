@@ -1,6 +1,6 @@
 # Alphabet Inc. — DCF Valuation Model
 
-A bottom-up, segment-level discounted cash flow model for Alphabet Inc., built entirely from primary sources: the FY2022–FY2025 10-K filings and the Q4 2025 earnings call transcript.
+A bottom-up, segment-level discounted cash flow model for Alphabet Inc. built from these sources: the FY2022–FY2025 10-K filings and the Q4 2025 earnings call transcript.
 
 **Implied share price: $200.74** vs. **actual price: $313.80** (as of Dec 31, 2025)
 The model implies Alphabet is trading 36% above its DCF-derived fair value. See below for the full explanation of why this is a genuine, sourced finding and not an error to be tuned away.
