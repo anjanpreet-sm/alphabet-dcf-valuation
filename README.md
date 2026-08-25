@@ -20,7 +20,7 @@ Built bottom-up in four stages:
 
 ## Historical financials
 
-| | 2022A | 2023A | 2024A | 2025A |
+| | 2022 | 2023 | 2024 | 2025 |
 |---|---|---|---|---|
 | Revenue | $282.8bn | $307.4bn | $350.0bn | $402.8bn |
 | Operating Margin | 26.5% | 27.4% | 32.1% | 32.0% |
@@ -35,7 +35,7 @@ Built bottom-up in four stages:
 
 Modeled as six independent lines rather than one blended growth rate, each reasoned from historical trend + Q4 2025 management commentary:
 
-| Segment | 2025A | 2030E | Method / logic |
+| Segment | 2025 | 2030 | Method / logic |
 |---|---|---|---|
 | Google Search & other | $224.5bn | $384.6bn | Tapered 13.4%→8.7%. AI Mode/Overviews cited as accelerant; tapered per "law of large numbers" on an already-massive base |
 | YouTube ads | $40.4bn | $60bn | Constant ~$4bn/yr dollar-add (not %), reflecting a maturing segment with no distinct new catalyst |
